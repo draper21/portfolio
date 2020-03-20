@@ -187,10 +187,10 @@
       <!-- About Section Content -->
       <div class="row">
         <div class="col-lg-4 ml-auto">
-          <p class="lead">Joe is a fullstack web developer</p>
+          <p class="lead">Joe is a Full-Stack Web Developer, which means the front-end and back-end technology which makes up a website. He can create a variety of different applications to meet your needs.</p>
         </div>
         <div class="col-lg-4 mr-auto">
-          <p class="lead">Joe is a fullstack web developer</p>
+          <p class="lead">Joe is working towards his Bachelor of Science in Computer Information Technology - Web and Application Development from Marshall University. (May 2020)</p>
         </div>
       </div>
 
@@ -274,24 +274,24 @@
         <!-- Footer Social Icons -->
         <div class="col-lg-4 mb-5 mb-lg-0">
           <h4 class="text-uppercase mb-4">Social Media</h4>
-          <a class="btn btn-outline-light btn-social mx-1" href="#">
+          <a class="btn btn-outline-light btn-social mx-1" href="https://www.facebook.com/joe.draper.94">
             <i class="fab fa-fw fa-facebook-f"></i>
           </a>
-          <a class="btn btn-outline-light btn-social mx-1" href="#">
+          <a class="btn btn-outline-light btn-social mx-1" href="https://twitter.com/JoeDraper21">
             <i class="fab fa-fw fa-twitter"></i>
           </a>
-          <a class="btn btn-outline-light btn-social mx-1" href="#">
+          <a class="btn btn-outline-light btn-social mx-1" href="https://www.linkedin.com/in/donald-draper-315056165/">
             <i class="fab fa-fw fa-linkedin-in"></i>
           </a>
-          <a class="btn btn-outline-light btn-social mx-1" href="#">
-            <i class="fab fa-fw fa-dribbble"></i>
+          <a class="btn btn-outline-light btn-social mx-1" href="https://github.com/draper21">
+            <i class="fab fa-fw fa-github"></i>
           </a>
         </div>
 
         <!-- Footer About Text -->
         <div class="col-lg-4">
           <h4 class="text-uppercase mb-4">About Rinx Web Solutions</h4>
-          <p class="lead mb-0">Freelance is a free to use, MIT licensed Bootstrap theme created by</p>
+          <p class="lead mb-0">Contact me today to get started on creating your website!</p>
         </div>
 
       </div>
@@ -328,7 +328,7 @@
             <div class="row justify-content-center">
               <div class="col-lg-8">
                 <!-- Portfolio Modal - Title -->
-                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Log Cabin</h2>
+                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Login Screen</h2>
                 <!-- Icon Divider -->
                 <div class="divider-custom">
                   <div class="divider-custom-line"></div>
@@ -340,7 +340,7 @@
                 <!-- Portfolio Modal - Image -->
                 <img class="img-fluid rounded mb-5" src="img/portfolio/swva_login.png" alt="">
                 <!-- Portfolio Modal - Text -->
-                <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                <p class="mb-5">This is a working intranet site for a Steel Mill I worked at. Depending on which user logs on, you are directed to a specific page and have different acess to view or change the database.</p>
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
                   Close Window
@@ -367,7 +367,7 @@
             <div class="row justify-content-center">
               <div class="col-lg-8">
                 <!-- Portfolio Modal - Title -->
-                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Tasty Cake</h2>
+                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">E-Commerce</h2>
                 <!-- Icon Divider -->
                 <div class="divider-custom">
                   <div class="divider-custom-line"></div>
@@ -379,7 +379,7 @@
                 <!-- Portfolio Modal - Image -->
                 <img class="img-fluid rounded mb-5" src="img/portfolio/store.png" alt="">
                 <!-- Portfolio Modal - Text -->
-                <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                <p class="mb-5">This e-commerce website loads products from a database and presents them in various ways. Users can sort products by category, price, brand, and even live search!</p>
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
                   Close Window
@@ -406,7 +406,7 @@
             <div class="row justify-content-center">
               <div class="col-lg-8">
                 <!-- Portfolio Modal - Title -->
-                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Circus Tent</h2>
+                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Web APIs</h2>
                 <!-- Icon Divider -->
                 <div class="divider-custom">
                   <div class="divider-custom-line"></div>
@@ -418,7 +418,7 @@
                 <!-- Portfolio Modal - Image -->
                 <img class="img-fluid rounded mb-5" src="img/portfolio/weather.png" alt="">
                 <!-- Portfolio Modal - Text -->
-                <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                <p class="mb-5">This website demonstrates pulling data from a 3rd party Web API, in this case, openweathermap.org. The user enters their zip code, and live weather from that area is displayed on the page.</p>
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
                   Close Window
@@ -445,7 +445,7 @@
             <div class="row justify-content-center">
               <div class="col-lg-8">
                 <!-- Portfolio Modal - Title -->
-                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Controller</h2>
+                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Database Presentation</h2>
                 <!-- Icon Divider -->
                 <div class="divider-custom">
                   <div class="divider-custom-line"></div>
@@ -457,7 +457,7 @@
                 <!-- Portfolio Modal - Image -->
                 <img class="img-fluid rounded mb-5" src="img/portfolio/swva_search.png" alt="">
                 <!-- Portfolio Modal - Text -->
-                <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                <p class="mb-5">The purpose of this website is to search and view engineering drawings out in the Steel Mill as fast as possible. Users can search by dropdowns which populate based off eachother and even filter specific words to help narrow the search. Admins can edit/delete the drawings from the database, while users can only view drawings.</p>
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
                   Close Window
@@ -484,7 +484,7 @@
             <div class="row justify-content-center">
               <div class="col-lg-8">
                 <!-- Portfolio Modal - Title -->
-                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Locked Safe</h2>
+                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Product Page</h2>
                 <!-- Icon Divider -->
                 <div class="divider-custom">
                   <div class="divider-custom-line"></div>
@@ -496,7 +496,7 @@
                 <!-- Portfolio Modal - Image -->
                 <img class="img-fluid rounded mb-5" src="img/portfolio/product.png" alt="">
                 <!-- Portfolio Modal - Text -->
-                <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                <p class="mb-5">After clicking on a product, the product page is loaded which presents more information to the user, including amount in stock, reviews, product options, and the ability to leave a rating/comment.</p>
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
                   Close Window
@@ -523,7 +523,7 @@
             <div class="row justify-content-center">
               <div class="col-lg-8">
                 <!-- Portfolio Modal - Title -->
-                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Submarine</h2>
+                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Database Interaction</h2>
                 <!-- Icon Divider -->
                 <div class="divider-custom">
                   <div class="divider-custom-line"></div>
@@ -535,7 +535,7 @@
                 <!-- Portfolio Modal - Image -->
                 <img class="img-fluid rounded mb-5" src="img/portfolio/pto_employee.png" alt="">
                 <!-- Portfolio Modal - Text -->
-                <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                <p class="mb-5">This website stores paid time off for employees, and lets them request time off. The admin can then approve or deny the request, and view other information.</p>
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
                   Close Window
